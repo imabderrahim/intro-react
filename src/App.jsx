@@ -58,6 +58,7 @@ class App extends React.Component {
           title="Assignments"
         />
       );
+      }
     
 
     /* Change below to render students*/
